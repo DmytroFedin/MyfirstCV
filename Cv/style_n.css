@@ -62,7 +62,7 @@ a:link {
   border: none;
   box-sizing: border-box;
   background-position: 50%;
-  color: #5b22ff;
+  color: #69b8bb;
   background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="3px" height="3px" viewBox="0 0 3 3" fill="teal"><polygon points="0,0.5 0,1.5 1.5,3 2.5,3"></polygon><polygon points="2.5,0 1.5,0 3,1.5 3,0.5"></polygon></svg>');
   background-size: 10px 10px;
 }
